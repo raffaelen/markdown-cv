@@ -1,87 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Raffaele Nicolella's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Raffaele Nicolella
+Aspiring Urban Planner, SDSU Undergrad Student
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Graduating in May 2023 at San Diego State University in Urban Studies
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Urban History and contemporary issues, Urban Politics, and Sustainability practices.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Land use, housing, and transportation.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2021`
+__Grossmont College, San Diego, California.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021 - May 2023`
+__San Diego State University, San Diego, California__
 
-- Sizar
+## Languages
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+Italian, English, Spanish
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+Marriott International Inc. Reward for exemplary commitment to quality service and customer satisfaction.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`October 2020 - Present`
+__Piacere Mio Del Sur Italian Restaurant__, San Diego, California
 
-- Warden
-- Minted coins
+- Server
+- Bartender
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`November 2016 – December 2017`
+__The El Cajon Boulevard BIA (Non-profit)__, San Diego, California
 
+- Community Resources Coordinator Intern 
+
+`July 2022 – December 2022`
+__Hotel Piazza Bellini__, Naples, Italy
+
+- Front Desk Clerk/Receptionist
+
+`October 2015 –October 2016`
+__Pier One Sydney Harbour Autograph Collection Hotel, Marriott__, Sydney, Australia
+
+- Concierge 
 
 
 <!-- ### Footer
